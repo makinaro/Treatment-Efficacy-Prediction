@@ -96,3 +96,7 @@ Doctors currently prescribe medication based on general guidelines. However, pat
 3. **Deliverable:** A cleaned Jupyter Notebook with markdown explanations and a final `requirements.txt` file.
 
 +
+---
+Sources:
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+https://www.geeksforgeeks.org/machine-learning/ml-one-hot-encoding/
