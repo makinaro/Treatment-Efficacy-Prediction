@@ -100,3 +100,4 @@ Doctors currently prescribe medication based on general guidelines. However, pat
 Sources:
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://www.geeksforgeeks.org/machine-learning/ml-one-hot-encoding/
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
